@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FBstat</string>
+    <string name="login">Sign in</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="hintPass">Password</string>
+</resources>
